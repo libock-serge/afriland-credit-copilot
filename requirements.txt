@@ -1,0 +1,7 @@
+# The pipeline runs on the Python standard library only -- no install needed:
+#     python run.py
+#
+# OPTIONAL: to run against a live model instead of the deterministic mock,
+# install the Anthropic SDK and export ANTHROPIC_API_KEY:
+#     pip install anthropic
+anthropic>=0.40.0   # optional, only used when ANTHROPIC_API_KEY is set
