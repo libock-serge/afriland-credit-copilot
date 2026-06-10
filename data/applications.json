@@ -1,0 +1,61 @@
+[
+  {"id": "SME-001", "business_name": "Mboa Fresh Foods", "sector": "retail", "region": "Douala",
+   "owner_name": "A. Nkeng", "requested_amount": 25000000, "years_operating": 6,
+   "monthly_revenue": 9800000, "monthly_expenses": 7600000, "existing_debt": 12000000,
+   "collateral_value": 30000000, "kyc_complete": true, "pep": false},
+
+  {"id": "SME-002", "business_name": "Sahel AgriTrade", "sector": "agriculture", "region": "Garoua",
+   "owner_name": "B. Hamadou", "requested_amount": 40000000, "years_operating": 9,
+   "monthly_revenue": 15500000, "monthly_expenses": 11200000, "existing_debt": 18000000,
+   "collateral_value": 55000000, "kyc_complete": true, "pep": false},
+
+  {"id": "SME-003", "business_name": "Redline Trading SARL", "sector": "transport", "region": "Yaoundé",
+   "owner_name": "C. Eboa", "requested_amount": 35000000, "years_operating": 2,
+   "monthly_revenue": 8200000, "monthly_expenses": 7100000, "existing_debt": 22000000,
+   "collateral_value": 15000000, "kyc_complete": true, "pep": false},
+
+  {"id": "SME-004", "business_name": "Bafoussam Textiles", "sector": "manufacturing", "region": "Bafoussam",
+   "owner_name": "D. Tchoua", "requested_amount": 60000000, "years_operating": 12,
+   "monthly_revenue": 28000000, "monthly_expenses": 21000000, "existing_debt": 30000000,
+   "collateral_value": 90000000, "kyc_complete": true, "pep": false},
+
+  {"id": "SME-005", "business_name": "Kribi Coastal Logistics", "sector": "transport", "region": "Kribi",
+   "owner_name": "E. Mbarga", "requested_amount": 18000000, "years_operating": 4,
+   "monthly_revenue": 6400000, "monthly_expenses": 5200000, "existing_debt": 5000000,
+   "collateral_value": 22000000, "kyc_complete": false, "pep": false},
+
+  {"id": "SME-006", "business_name": "Limbe Digital Services", "sector": "services", "region": "Limbe",
+   "owner_name": "F. Ashu", "requested_amount": 12000000, "years_operating": 3,
+   "monthly_revenue": 5200000, "monthly_expenses": 3300000, "existing_debt": 2000000,
+   "collateral_value": 8000000, "kyc_complete": true, "pep": false},
+
+  {"id": "SME-007", "business_name": "Adamawa Cattle Co-op", "sector": "agriculture", "region": "Ngaoundéré",
+   "owner_name": "G. Bello", "requested_amount": 50000000, "years_operating": 15,
+   "monthly_revenue": 19000000, "monthly_expenses": 14500000, "existing_debt": 9000000,
+   "collateral_value": 70000000, "kyc_complete": true, "pep": true},
+
+  {"id": "SME-008", "business_name": "Buea Highland Coffee", "sector": "agriculture", "region": "Buea",
+   "owner_name": "H. Ndive", "requested_amount": 30000000, "years_operating": 7,
+   "monthly_revenue": 11200000, "monthly_expenses": 8900000, "existing_debt": 6000000,
+   "collateral_value": 40000000, "kyc_complete": true, "pep": false},
+
+  {"id": "SME-009", "business_name": "Maroua Solar Imports", "sector": "retail", "region": "Maroua",
+   "owner_name": "I. Souley", "requested_amount": 22000000, "years_operating": 1,
+   "monthly_revenue": 4800000, "monthly_expenses": 4600000, "existing_debt": 8000000,
+   "collateral_value": 9000000, "kyc_complete": true, "pep": false},
+
+  {"id": "SME-010", "business_name": "Edea Packaging Ltd", "sector": "manufacturing", "region": "Edéa",
+   "owner_name": "J. Manga", "requested_amount": 45000000, "years_operating": 8,
+   "monthly_revenue": 21000000, "monthly_expenses": 16800000, "existing_debt": 20000000,
+   "collateral_value": 60000000, "kyc_complete": true, "pep": false},
+
+  {"id": "SME-011", "business_name": "Bamenda Ring Road Transit", "sector": "transport", "region": "Bamenda",
+   "owner_name": "K. Fru", "requested_amount": 28000000, "years_operating": 5,
+   "monthly_revenue": 9100000, "monthly_expenses": 7400000, "existing_debt": 11000000,
+   "collateral_value": 26000000, "kyc_complete": true, "pep": false},
+
+  {"id": "SME-012", "business_name": "Sangmelima Timber Works", "sector": "manufacturing", "region": "Sangmélima",
+   "owner_name": "L. Owona", "requested_amount": 38000000, "years_operating": 10,
+   "monthly_revenue": 17500000, "monthly_expenses": 13900000, "existing_debt": 14000000,
+   "collateral_value": 52000000, "kyc_complete": true, "pep": false}
+]
